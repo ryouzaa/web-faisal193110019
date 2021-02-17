@@ -6,7 +6,6 @@ summary: sampai jumpa di lain waktu
 draft: false
 featured: false
 authors:
-  - admin
   - Faisal
 lastmod: 2020-12-13T00:00:00Z
 tags:
