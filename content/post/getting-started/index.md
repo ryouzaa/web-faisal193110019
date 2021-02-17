@@ -1,24 +1,47 @@
 ---
-title: ini postingan pertamaku
-subtitle: selamat datang di postingan pertama blog ini
+title: Mengenal sejarah Reog Ponorogo
+subtitle: ""
 date: 2021-02-17T05:47:55.261Z
-summary: sampai jumpa di lain waktu
+summary: ""
 draft: false
 featured: false
 authors:
-  - Faisal
-lastmod: 2020-12-13T00:00:00Z
+  - admin
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Artikel
 categories:
-  - First Post
+  - Cerita
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Image credit:
+    [**Merahputih.com**](https://merahputih.com/media/2015/11/12/H2Zs1gtL5C1447\
+    294797.jpg)"
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: https://merahputih.com/media/2015/11/12/H2Zs1gtL5C1447294797.jpg
 ---
-## Overview
+<!--StartFragment-->
 
-web ini dibuat dengan netlify
+Reog, salah satu kesenian budaya yang berasal dari Jawa Timur bagian barat-laut dan Ponorogo dianggap sebagai kota asal Reog yang sebenarnya.
+
+Gerbang kota Ponorogo dihiasi oleh sosok warok dan gemblak, dua sosok yang ikut tampil pada saat reog dipertunjukkan. Reog merupakan salah satu budaya di Indonesia yang masih sangat kental dengan hal-hal yang berbau mistik dan ilmu kebatinan yang kuat.
+
+Ada lima versi cerita populer yang berkembang di masyarakat tentang asal usul Reog dan Warok, namun salah satu cerita yang paling terkenal adalah cerita tentang pemberontakan Ki Ageng Kutu, seorang abdi kerajaan pada masa Bhre Kertabhumi, Raja Majapahit terakhir yang berkuasa pada abad ke-15.
+
+Ki Ageng Kutu murka akan pengaruh kuat dari pihak istri raja Majapahit yang berasal dari Tiongkok, selain itu juga murka kepada rajanya dalam pemerintahan yang korup, ia pun melihat bahwa kekuasaan Kerajaan Majapahit akan berakhir. Ia lalu meninggalkan sang raja dan mendirikan perguruan di mana ia mengajar seni bela diri kepada anak-anak muda, ilmu kekebalan diri, dan ilmu kesempurnaan dengan harapan bahwa anak-anak muda ini akan menjadi bibit dari kebangkitan kerajaan Majapahit kembali.
+
+Sadar bahwa pasukannya terlalu kecil untuk melawan pasukan kerajaan maka pesan politis Ki Ageng Kutu disampaikan melalui pertunjukan seni Reog, yang merupakan "sindiran" kepada Raja Kertabhumi dan kerajaannya. Pagelaran Reog menjadi cara Ki Ageng Kutu membangun perlawanan masyarakat lokal menggunakan kepopuleran Reog.
+
+Dalam pertunjukan Reog ditampilkan topeng berbentuk kepala singa yang dikenal sebagai "Singa barong", raja hutan, yang menjadi simbol untuk Kertabhumi, dan diatasnya ditancapkan bulu-bulu merak hingga menyerupai kipas raksasa yang menyimbolkan pengaruh kuat para rekan Cinanya yang mengatur dari atas segala gerak-geriknya.
+
+Jatilan, yang diperankan oleh kelompok penari gemblak yang menunggangi kuda-kudaan menjadi simbol kekuatan pasukan Kerajaan Majapahit yang menjadi perbandingan kontras dengan kekuatan warok, yang berada dibalik topeng badut merah yang menjadi simbol untuk Ki Ageng Kutu, sendirian dan menopang berat topeng singabarong yang mencapai lebih dari 50 kg hanya dengan menggunakan giginya.
+
+Kepopuleran Reog Ki Ageng Kutu akhirnya menyebabkan Bhre Kertabhumi mengambil tindakan dan menyerang perguruannya, pemberontakan oleh warok dengan cepat diatasi, dan perguruan dilarang untuk melanjutkan pengajaran akan warok. Namun murid-murid Ki Ageng kutu tetap melanjutkannya secara diam-diam. Walaupun begitu, kesenian Reognya sendiri masih diperbolehkan untuk dipentaskan karena sudah menjadi pertunjukan populer di antara masyarakat, namun jalan ceritanya memiliki alur baru di mana ditambahkan karakter-karakter dari cerita rakyat Ponorogo yaitu Kelono Sewandono, Dewi Songgolangit, dan Sri Genthayu.
+
+Hingga kini masyarakat Ponorogo hanya mengikuti apa yang menjadi warisan leluhur mereka sebagai warisan budaya yang sangat kaya. Dalam pengalamannya Seni Reog merupakan cipta kreasi manusia yang terbentuk adanya aliran kepercayaan yang ada secara turun temurun dan terjaga.
+
+Upacaranya pun menggunakan syarat-syarat yang tidak mudah bagi orang awam untuk memenuhinya tanpa adanya garis keturunan yang jelas. Mereka menganut garis keturunan Parental dan hukum adat yang masih berlaku.
+
+<!--EndFragment-->
