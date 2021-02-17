@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Blog Faisal 193110019
 subtitle: ini blogku gan
-active: true
+active: false
 design:
   background:
     color: "#090a0b"
