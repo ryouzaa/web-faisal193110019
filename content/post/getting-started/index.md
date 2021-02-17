@@ -17,7 +17,7 @@ image:
   caption: "Image credit:
     [**Merahputih.com**](https://merahputih.com/media/2015/11/12/H2Zs1gtL5C1447\
     294797.jpg)"
-  focal_point: ""
+  focal_point: center
   placement: 2
   preview_only: false
   filename: https://merahputih.com/media/2015/11/12/H2Zs1gtL5C1447294797.jpg
