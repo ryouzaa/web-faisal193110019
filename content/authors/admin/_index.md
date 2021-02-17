@@ -1,6 +1,6 @@
 ---
 title: Faisal Alfainun N
-role: Student in STMIK AKAKOM
+role: Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: "STMIK AKAKOM "
     url: ""
 superuser: true
 ---
